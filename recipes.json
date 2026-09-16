@@ -1,0 +1,12 @@
+[
+  {"name": "Garlic Butter Pasta", "image": "https://picsum.photos/seed/recipe1/400/300", "minutes": 20, "description": "A quick weeknight pasta tossed in a garlicky brown butter sauce."},
+  {"name": "Sheet-Pan Veggie Fajitas", "image": "https://picsum.photos/seed/recipe2/400/300", "minutes": 30, "description": "Peppers and onions roasted with fajita spice, served with warm tortillas."},
+  {"name": "Lemon Herb Roast Chicken", "image": "https://picsum.photos/seed/recipe3/400/300", "minutes": 75, "description": "A whole chicken roasted with lemon, thyme, and rosemary."},
+  {"name": "Chickpea Coconut Curry", "image": "https://picsum.photos/seed/recipe4/400/300", "minutes": 35, "description": "A creamy, spiced curry simmered with coconut milk and chickpeas."},
+  {"name": "Classic Beef Chili", "image": "https://picsum.photos/seed/recipe5/400/300", "minutes": 50, "description": "A hearty chili with ground beef, beans, and smoky spices."},
+  {"name": "Caprese Salad Skewers", "image": "https://picsum.photos/seed/recipe6/400/300", "minutes": 10, "description": "Cherry tomatoes, mozzarella, and basil drizzled with balsamic glaze."},
+  {"name": "Miso Glazed Salmon", "image": "https://picsum.photos/seed/recipe7/400/300", "minutes": 25, "description": "Salmon fillets broiled with a sweet-savory miso glaze."},
+  {"name": "Loaded Baked Potato Soup", "image": "https://picsum.photos/seed/recipe8/400/300", "minutes": 40, "description": "A creamy potato soup topped with cheese, bacon, and chives."},
+  {"name": "Thai Peanut Noodles", "image": "https://picsum.photos/seed/recipe9/400/300", "minutes": 20, "description": "Cold noodles tossed in a spicy-sweet peanut sauce."},
+  {"name": "Blueberry Oat Muffins", "image": "https://picsum.photos/seed/recipe10/400/300", "minutes": 35, "description": "Fluffy muffins packed with blueberries and a crumbly oat topping."}
+]
